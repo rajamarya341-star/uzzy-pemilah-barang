@@ -1,5 +1,6 @@
 streamlit
 numpy
 scikit-fuzzy
+scipy
 matplotlib
 networkx
